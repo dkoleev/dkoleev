@@ -3,20 +3,15 @@
 ### 👋 Hi, I Am Dmitry
 
 - I am a Game Developer.
-- I have worked from 2017 to 2020 on the [Copernicus project](https://en.wikipedia.org/wiki/Copernicus_Programme) for the ESA, European Space Agency, as a Fullstack Developer.
-- [Docker Captain](https://www.docker.com/captains/francesco-ciulla) since June 2021
-- I have interviewed 185+ Developers on my [YouTube Channel](https://youtu.be/Wh6r6xHPEIg). 
-- I am a Developer Advocate at [daily.dev](https://daily.dev) 
-- I have founded [4C](https://discord.com/invite/cRjhjFRRre) a community focused on Content Creation.
  
 </td><td valign="top" width="25%">
 
-### 🛠 Fav Tech Stack
+### 🖥 Fav Tech Stack
 
-- <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" title="Unity" alt="Unity Logo" width="65"/>
-- .Net
-- C#
-- Rust
+- Unity <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" title="Unity" alt="Unity Logo" width="50"/>
+- C# <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" title="C#" alt="C# Logo" width="50"/>
+- .Net <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" title=".Net" alt=".Net Logo" width="50"/>
+- Rust <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" title="Rust" alt="Rust Logo" width="50"/>
 - Bevy
 
 </tr></tr></table> 
