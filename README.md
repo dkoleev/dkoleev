@@ -8,10 +8,10 @@
 
 ### 🖥 Fav Tech Stack
 
-- Unity <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" title="Unity" alt="Unity Logo" width="100"/>
-- C# <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" title="C#" alt="C# Logo" width="100"/>
-- .Net <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" title=".Net" alt=".Net Logo" width="100"/>
-- Rust <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" title="Rust" alt="Rust Logo" width="100"/>
+<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" title="Unity" alt="Unity Logo" width="100"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" title="C#" alt="C# Logo" width="100"/>
+<img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" title=".Net" alt=".Net Logo" width="100"/>
+<img src="https://cdn.worldvectorlogo.com/logos/rust.svg" title="Rust" alt="Rust Logo" width="100"/>
 
 </tr></tr></table> 
 
