@@ -1,6 +1,6 @@
 <table><tr><td valign="top" width="75%">
 
-## 👋 Hi, I Am Dmitry
+## 👋 Hi There!
 
  - 🎮 I am a Game Developer.
  - 📱  I specialize in developing mobile games for Android and iOS platforms on the [Unity Game Engine](https://unity.com/).
