@@ -4,14 +4,15 @@
 
  - 🎮 I am a Game Developer.
  - 📱  I specialize in developing mobile games for Android and iOS platforms on the [Unity Game Engine](https://unity.com/).
- - ✨ In my spare time I study the programming language [Rust](https://www.rust-lang.org/) and the game engine [Bevy](https://bevyengine.org/)
+ - ✨ In my spare time I study the programming language [Rust](https://www.rust-lang.org/) and the game engine [Bevy](https://bevyengine.org/).
+ - 🤖 I also create Telegram bots using [Python](https://www.python.org/).
  
 </td>
 <td valign="top" width="25%">
 
 ## 🖥 Fav Tech Stack
 
-<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" title="Unity" alt="Unity Logo" width="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" title="C#" alt="C# Logo" width="35"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" title=".Net" alt=".Net Logo" width="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" title="Rust" alt="Rust Logo" width="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" title="Unity" alt="Unity Logo" width="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" title="C#" alt="C# Logo" width="35"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" title=".Net" alt=".Net Logo" width="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" title="Rust" alt="Rust Logo" width="45"/> &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python Logo" width="45"/>
 
 </td></tr></table> 
 
