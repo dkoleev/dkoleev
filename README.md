@@ -17,10 +17,11 @@
 </td></tr></table> 
 
 <div align=center>
-<a href="https://twitter.com/FrancescoCiull4"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
+<a href="https://www.linkedin.com/in/dkoleev/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
+<a href="https://x.com/dkoleev"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
 <!--a href="https://discord.com/invite/"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a> -->
 <!--a href="https://www.linkedin.com/in/francesco-ciulla-roma/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> -->
-&ensp;<a href="https://dev.to/dkoleev"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" title="DEV" alt="DEVto Blog" width="30"/></a>
+&ensp;<a href="[https://dev.to/dkoleev](https://dev.to/dmitry-koleev)"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" title="DEV" alt="DEVto Blog" width="30"/></a>
 </div>
 
 <!--
