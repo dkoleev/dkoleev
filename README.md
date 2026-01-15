@@ -3,8 +3,8 @@
 ## 👋 Hi There!
 
  - 🎮 I am a Game Developer.
- - 📱  I specialize in developing mobile games for Android and iOS platforms on the [Unity Game Engine](https://unity.com/).
- - ✨ In my spare time I study the programming language [Rust](https://www.rust-lang.org/) and the game engine [Bevy](https://bevyengine.org/).
+ - 📱  I specialize in developing mobile and web games for Android, iOS, and WebGL platforms on the [Unity Game Engine](https://unity.com/).
+ - ✨ In my spare time, I study the programming language [Rust](https://www.rust-lang.org/) and the game engine [Bevy](https://bevyengine.org/).
  - 🤖 I also create Telegram bots using [Python](https://www.python.org/).
  
 </td>
